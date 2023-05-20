@@ -1,0 +1,269 @@
+body
+{
+    margin: 0;
+    padding: 0;
+
+   
+}
+.aaa
+{
+    color: white;
+    margin-left: 50%;
+    
+}
+.nav-link
+{
+    color: white;
+}
+.aaaa
+{
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+}
+.carousel-item{
+    position: relative;
+    height: fit-content;
+}
+.carouselImageContent{
+    position: absolute;
+    top: 0%;
+    right: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.divsParent{
+    width: 100%;
+    display: flex;
+}
+.emptyDiv{
+    width: 12%;
+    background-color: rgba(40, 97, 117, 0.8);
+}
+.contentChild{
+    background-color: rgba(40, 97, 117, 0.8);
+    font-size: .9rem;
+    color: white;
+    font-weight: 100;
+    width: 40%;
+    padding: 1rem; /* padding 1rem equal 16px from all sides*/
+}
+
+.mm
+{
+    margin-left: 100px;
+    color: 19c8fa;
+}
+
+.third
+{
+    background-image: url(design-features.jpg);
+    background-size: cover;
+    height: 600px;
+    overflow:hidden ;
+}
+.thir
+{
+    
+    position: relative;
+    top: 200px;
+    left:200px;
+}
+.tzb
+{
+    background-color: rgba(15, 116, 143, 0.7);
+    padding: 50px;
+    right: 0;
+    top: 180px;
+}
+.contai
+{   
+    background: #000;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.fif
+{
+    width: 25%;    
+}
+.baba
+{
+    position: relative;
+    overflow: hidden;
+}
+.abn
+{
+    width: 100%;
+    position: absolute;
+    background-color: white;
+    color: black;
+    text-align: center;
+    left: 0;
+    bottom: -90;  
+    transition: all 0.5s; 
+    transition-delay: 0.15s;
+   
+}
+.baba:hover .abn
+{
+    bottom:0;
+}
+.baba img
+{
+    transition-duration: 0.5s;
+    
+}
+
+.baba:hover img
+{
+    transform: rotate(3deg) scale(1.1);
+}
+.fifth .btn
+{
+    margin-left: 50%;
+}
+.sexchild
+{
+    position: absolute;
+    width: 100%;
+    height: 250px;
+    background-color:rgba(15, 116, 143, 0.7);
+    text-align: center;
+}
+.imgchild
+{
+    position: relative;
+    top: 120px;
+    right: 20px;
+
+}
+.eight
+{
+    height:400px;
+    background-image: url(stats.png);
+    background-size: cover; 
+}
+.eightchild
+{
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.eightchildchild
+{
+    color: aliceblue;
+    width: 75%;
+    background-color: rgba(15, 116, 143, 0.7);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.nineimg
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+.nine h5
+{
+    position: relative;
+    font-weight: lighter;
+    margin-left: 400px;
+}
+.nine h4
+{
+    font-weight: bolder;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.ten{
+    background-image: url(quote.jpg);
+    height: 300px;
+    background-size: cover;
+}
+.ten p
+{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.elevn
+{
+    height: 150px;
+   
+}
+.tt{
+    background-color: #fcfcfc;
+
+}
+.twelev span
+{
+    font-weight: 500;
+    font-size: 50px;
+}
+.twelev h3
+{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size:x-large;
+    padding: 10px;
+}
+.thirteen
+{
+    height: 200px;
+    background-image: url(subscribe.jpg);
+    background-size: cover;
+}
+.thirdchild
+{
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.thirdchildchild
+{
+    color: #fcfcfc;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.sixteenchild
+{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.final
+{
+    height: 300px;
+    background-image: url(subscribe.jpg);
+    background-size: cover;
+    
+}
+.finalchild
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
